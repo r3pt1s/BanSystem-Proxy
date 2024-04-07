@@ -1,0 +1,7 @@
+name: BanSystem-Proxy
+version: 1.0
+author: r3pt1s
+main: de.r3pt1s.bansystem.Loader
+description: StarGate proxy plugin for proxy support
+depends:
+  - StarGate
